@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reader</string>
+    
+    <!-- 主菜单定义  -->
+    <string name="main_txt_title">看书</string>
+    <string name="main_btn_open">打开</string>
+    <string name="main_btn_setting">设定</string>
+    <string name="main_btn_exit">退出</string>
+    
+    <!-- 用户设定定义  -->
+    <string name="setting_txt_title">用户设定</string>
+    <string name="setting_txt_font_color">字体颜色</string>
+    <string name="setting_txt_bg_color">背景颜色</string>
+    <string name="setting_txt_font_size">字体大小</string>
+    <string name="setting_txt_scr_brightness">屏幕亮度</string>
+    <string name="setting_txt_setting_prev">这是一段测试文字，表示当前的用户设定。</string>
+    
+    <!-- 书签管理定义  -->
+    <string name="bookmark_txt_title">书签管理</string>
+    <string name="bookmark_btn_add">添加书签</string>
+    <string name="bookmark_btn_clear">清空书签</string>
+    <string name="bookmark_btn_go">去往书签</string>
+    
+</resources>

@@ -1,0 +1,21 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:background="@android:color/black"
+    android:gravity="center" >
+
+    <Button
+        android:id="@+id/book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:shadowRadius="2"
+        android:shadowColor="@android:color/darker_gray"
+        android:shadowDx="3"
+        android:shadowDy="2"
+        android:textSize="72sp"
+        android:background="@drawable/cover_backage"
+        android:onClick="onClick" />
+
+</RelativeLayout>
